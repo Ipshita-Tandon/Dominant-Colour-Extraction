@@ -1,5 +1,4 @@
 import streamlit as st
-import joblib
 import numpy as np
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
